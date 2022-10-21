@@ -1,0 +1,28 @@
+#time {
+  float: right;
+  font-size: 30;
+}
+
+body {
+  background-color: #354d73;
+  color: whitesmoke;
+}
+
+.modal-title {
+  color: black;
+}
+
+#score {
+  font-size: 30;
+}
+
+#drawed {
+  color: red;
+  font-size: 20;
+}
+
+canvas {
+
+  margin-top: 70;
+  border: 5px dashed pink;
+}
